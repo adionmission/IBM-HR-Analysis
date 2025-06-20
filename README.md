@@ -1,6 +1,10 @@
 # IBM HR Analysis
 
-Employee Analysis for HR Department of IBM Company
+![GitHub License](https://img.shields.io/github/license/adionmission/IBM-HR-Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/IBM-HR-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/IBM-HR-Analysis)
+
+Analyze IBM employee data to uncover patterns in attrition, compensation, etc. This project leverages HR analytics to predict employee turnover and improve workforce management.
 
 ## Tech Stack
 
